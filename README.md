@@ -1,5 +1,5 @@
-Microtesting Presentation
-=========================
+Modern Authentication Presentation
+==================================
 
 [Download PowerPoint](https://github.com/MRCollective/ModernAuthPresentation/raw/master/Presentation.pptx)
 
