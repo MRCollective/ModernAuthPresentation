@@ -1,7 +1,7 @@
 Modern Authentication Presentation
 ==================================
 
-[Download PowerPoint](https://github.com/MRCollective/ModernAuthPresentation/raw/master/Presentation.pptx)
+[Download PowerPoint](https://github.com/MRCollective/ModernAuthPresentation/raw/master/Presentation.pptx) | [Watch Video](https://vimeo.com/200279525)
 
 Title
 -----
